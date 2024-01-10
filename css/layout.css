@@ -1,0 +1,16 @@
+/* typografi */
+@font-face {
+    font-family: 'Nohemi';
+    src: 
+         url('../fonts/Nohemi-Regular-BF6438cc579d934.woff') format('woff'); 
+         src: url(../fonts/Nohemi-Regular-BF6438cc579d934.woff);
+         font-weight: bold;
+         font-style: normal;
+}
+
+@font-face {
+    font-family: 'PLANK';
+    src: 
+         url('../fonts/PLANK___.TTF') format('woff'); 
+         src: url(../fonts/PLANK___.TTF);
+}
